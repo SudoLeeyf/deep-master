@@ -26,9 +26,6 @@ An enterprise-level backend framework designed specifically for regulatory platf
 - `deep-generator`: Code generator
 - `deep-system`: Business logic modules
 
-## 📷 Screenshots (Optional)
-Add screenshots of Swagger UI, system architecture diagram, or key modules
-
 ## 🚀 How to Run
 ```bash
 # Clone
